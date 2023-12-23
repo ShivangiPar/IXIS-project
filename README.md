@@ -1,0 +1,1 @@
+This is a take-home project where I had to write a code script to mwrangle data in order to to summarize website performance and provide insights to help the retailer understand their website’s performance.
